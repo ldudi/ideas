@@ -8,4 +8,4 @@
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [ ] Mastering git
-- [ ] Debugging with Grass Hopper Method.
+- [ ] Debugging with Grass Hopper Method
